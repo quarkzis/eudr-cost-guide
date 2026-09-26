@@ -1,2 +1,5 @@
 # eudr-cost-guide
-Public reference guide for the EUDR Due Diligence Costs Calculator pilot
+
+Static reference page for pilot clients of the EUDR Due Diligence Costs Calculator.
+
+The site source is in `docs/index.html`.
